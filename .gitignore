@@ -34,3 +34,9 @@ vignettes/*.pdf
 
 # Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
 rsconnect/
+
+# Worldclim data
+/wc0.5/
+/wc2-5/
+
+APP4_Biodiversity.Rproj
